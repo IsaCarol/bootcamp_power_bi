@@ -15,4 +15,6 @@ Desafio de projeto em Power BI
 
 [Relatório Desafio de Projeto](Desafio_projeto.pdf)
 
+[Vídeo Deafio de Projeto](https://drive.google.com/file/d/1CTMZQChb6IRvdhdydi2jSxcVbhEgzAeZ/view?usp=sharing)
+
 
