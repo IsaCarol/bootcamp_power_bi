@@ -1,4 +1,4 @@
-# bootcamp_nttdata_power_bi
+# bootcamp_NTTDATA_power_bi
 
 ## Desafio 1 - Financials
 
@@ -7,3 +7,12 @@ A primeira alteração, foi no quesito da seleção da data no filtro de segment
 
 
 [Relatório Desafio 1 - Financials](Bootcamp_2.pdf)
+
+
+# DESAFIO DE PROJETO
+
+Desafio de projeto em Power BI
+
+[Relatório Desafio de Projeto](Desafio_projeto.pdf)
+
+[Vídeo Desafio de Projeto](https://drive.google.com/file/d/1n9jko6kGb5Pw4jc0ivno--re2rnCDlDl/view?usp=sharing)
